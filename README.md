@@ -9,3 +9,4 @@
 |LEC-10|[Minimum Path Sum](https://www.codingninjas.com/codestudio/problems/minimum-path-sum_985349?source=youtube&campaign=striver_dp_videos&utm_source=youtube&utm_medium=affiliate&utm_campaign=striver_dp_videos&leftPanelTab=0)|[LINK](https://github.com/tanya-gupta25/DynamicProgramming_Striver/blob/main/Minimum%20Path%20Sum.cpp)|
 |LEC-11|[Triangle](https://leetcode.com/problems/triangle/)|[LINK](https://github.com/tanya-gupta25/DynamicProgramming_Striver/blob/main/Traingle.cpp)|
 |LEC-12|[Maximum Path Sum in the matrix](https://www.codingninjas.com/codestudio/problems/maximum-path-sum-in-the-matrix_797998)|[LINK](https://github.com/tanya-gupta25/DynamicProgramming_Striver/blob/main/MaximumFallingPathSum.cpp)|
+|LEC-14|[Subset Sum Equal To K](https://www.codingninjas.com/codestudio/problems/subset-sum-equal-to-k_1550954?leftPanelTab=0)|[LINK]()|
