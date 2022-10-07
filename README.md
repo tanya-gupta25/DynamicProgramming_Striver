@@ -1,5 +1,7 @@
 |LECTURE|PROBLEM|SOLUTION|
 |-------|-------|--------|
+|LEC-1|[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)|[LINK]()|
+|LEC-2|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[LINK]()|
 |LEC-3|[Frog Jump](https://www.codingninjas.com/codestudio/problems/frog-jump_3621012?leftPanelTab=0)|[LINK](https://github.com/tanya-gupta25/DynamicProgramming_Striver/blob/main/FrogJump.cpp)|
 |LEC-5|[House Robber/Maximum Sum of Non-Adjacent Elements](https://leetcode.com/problems/house-robber/)|[LINK](https://github.com/tanya-gupta25/DynamicProgramming_Striver/blob/main/Maximum%20sum%20of%20non-adjacent%20elements.cpp)|
 |LEC-6|[House Robber II](https://leetcode.com/problems/house-robber-ii/)|[LINK](https://github.com/tanya-gupta25/DynamicProgramming_Striver/blob/main/House%20Robber2.cpp)|
@@ -10,3 +12,4 @@
 |LEC-11|[Triangle](https://leetcode.com/problems/triangle/)|[LINK](https://github.com/tanya-gupta25/DynamicProgramming_Striver/blob/main/Traingle.cpp)|
 |LEC-12|[Maximum Path Sum in the matrix](https://www.codingninjas.com/codestudio/problems/maximum-path-sum-in-the-matrix_797998)|[LINK](https://github.com/tanya-gupta25/DynamicProgramming_Striver/blob/main/MaximumFallingPathSum.cpp)|
 |LEC-14|[Subset Sum Equal To K](https://www.codingninjas.com/codestudio/problems/subset-sum-equal-to-k_1550954?leftPanelTab=0)|[LINK]()|
+|LEC-15|[Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)|[LINK]()|

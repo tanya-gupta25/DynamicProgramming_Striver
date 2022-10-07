@@ -112,7 +112,7 @@ Approach-4 Space Optimization
 
 #include <bits/stdc++.h> 
 bool subsetSumToK(int n, int k, vector<int> &arr) {
-   vector<bool>prev(k+1,0),curr(k+1,0);\
+   vector<bool>prev(k+1,0),curr(k+1,0);
    //the first idx=0 will always be true as it says target is 0 so we got an empty subset
     prev[0]=curr[0]=true;
     if(arr[0]<=k) prev[arr[0]]=true;
